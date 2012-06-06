@@ -1,13 +1,13 @@
 Articles of Association
 =======================
 
-# Section 1 - General
+## Section 1 - General
 
-## Location
+### Location
 
 The location of the PyConCa Association is at TEMP
 
-## Objectives of the Association
+### Objectives of the Association
 
 The objective of PyConCa is connect the Canadian Python community 
 through events, newsletters, and training workshops and classes.
@@ -19,7 +19,7 @@ abilities, religions, and sexual orientations.
 We aim to connect python users from nonprofit, corporate, government, 
 and academic positions.
 
-## Powers of The Association
+### Powers of The Association
 
 The powers of The Association are to direct funds from donors and 
 sponsors to fulfil the objectives of the association.
@@ -27,21 +27,21 @@ sponsors to fulfil the objectives of the association.
 The Association may approve or set guidelines for usage of trademarks, 
 copyrights, and patents of The Association.
 
-## Membership
+### Membership
 
 Membership into the Association is governed by TEMP
 
-## Sources of Funds
+### Sources of Funds
 
 Funds are to be sourced from publications, sponsorships, and donations.
 
-## Management, Governance, Authority and Leadership
+### Management, Governance, Authority and Leadership
 
 The Association is fully governed by the following individuals:
 
-# Section 2 - The Board and Duties
+## Section 2 - The Board and Duties
 
-## Executive Board and Duties
+### Executive Board and Duties
 
 The board is fully made up of the following individuals:
 
@@ -49,15 +49,15 @@ The board is fully made up of the following individuals:
  - TEMP
  - TEMP
 
-## Election of officers
+### Election of officers
 
 TEMP
 
-## Appointment Powers
+### Appointment Powers
 
 Staff of The Association is decided by TEMP
 
-## Delegation
+### Delegation
 
 The following tasks may be delegated to non-board members:
 
@@ -65,7 +65,7 @@ The following tasks may be delegated to non-board members:
  - TEMP
  - TEMP
 
-## Reporting Procedures
+### Reporting Procedures
 
 In order to keep all members comprised of the actions of 
 The Association, the following reporting procedures must be 
@@ -75,16 +75,16 @@ followed by any agent or board member of The Association:
  - TEMP
  - TEMP
 
-# Section 3 - Appointments
+## Section 3 - Appointments
 
 The following are the appointments of The Association:
 
  - TEMP
  - TEMP
 
-# Section 4 - Advisory Board & Meetings
+## Section 4 - Advisory Board & Meetings
 
-## Members
+### Members
 
 The following are the sole members of The Association's 
 Advisory Board:
@@ -92,47 +92,47 @@ Advisory Board:
  - TEMP
  - TEMP
 
-## Membership Meetings
+### Membership Meetings
 
 Meetings with members must occur once per year as determined 
 by The Executive Board. These meetings must be open to the public.
 
-## Executive Board Meetings
+### Executive Board Meetings
 
 Executive Board Meetings must happen at least once per year, or 
 as needed in order to facilitate The Association's objectives.
 
-# Section 6 - Newsletters and Publications
+## Section 6 - Newsletters and Publications
 
-## Copyright
+### Copyright
 
 Use of copyrighted materials is at the sole discretion of The Board, 
 including, but not limited to, the decision to release materials to 
 the public through Creative Commons licenses.
 
-## Purpose
+### Purpose
 
 The purpose of newsletters and publications is to raise awareness for 
 events and to facilitate sponsorship and donations.
 
-# Section 7 - Representation
+## Section 7 - Representation
 
-## General
+### General
 
 The Board decides who may or may not represent The Association outside of 
 members of The Executive Board who may always represent The Association.
 
-# Section 8 - Amendment of Articles
+## Section 8 - Amendment of Articles
 
-## General
+### General
 
 Articles may be amended by The Board. If an Executive Board Member dissents,
 he is free to step down from The Board and may absolve his liability of 
 future actions of The Association. Past actions remain subject to liability.
 
-# Section 9 - Distribution of Assets
+## Section 9 - Distribution of Assets
 
-## General
+### General
 
 Assets under the control of The Association may only be used to achieve the 
 goals of The Association. If The Association dissolves, any remaining 
