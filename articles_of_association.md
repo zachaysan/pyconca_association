@@ -35,7 +35,7 @@ Membership into the Association is governed by TEMP
 
 Funds are to be sourced from publications, sponsorships, and donations.
 
-### Management, Governance, Authority and Leadership
+### Management, Governance, Authority, and Leadership
 
 The Association is fully governed by the following individuals:
 
