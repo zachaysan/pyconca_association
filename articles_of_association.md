@@ -27,6 +27,14 @@ sponsors to fulfil the objectives of the association.
 The Association may approve or set guidelines for usage of trademarks, 
 copyrights, and patents of The Association.
 
-## Memebership
+## Membership
 
 Membership into the Association is governed by TEMP
+
+## Sources of Funds
+
+Funds are to be sourced from publications, sponsorships, and donations.
+
+## Management, Governance, Authority and Leadership
+
+The Association is fully governed by the following individuals:
