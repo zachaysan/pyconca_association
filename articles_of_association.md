@@ -5,7 +5,7 @@ Articles of Association
 
 ## Location
 
-The location of the PyConCa Assocaition is at TEMP
+The location of the PyConCa Association is at TEMP
 
 ## Objectives of the Association
 
@@ -81,3 +81,60 @@ The following are the appointments of The Association:
 
  - TEMP
  - TEMP
+
+# Section 4 - Advisory Board & Meetings
+
+## Members
+
+The following are the sole members of The Association's 
+Advisory Board:
+
+ - TEMP
+ - TEMP
+
+## Membership Meetings
+
+Meetings with members must occur once per year as determined 
+by The Executive Board. These meetings must be open to the public.
+
+## Executive Board Meetings
+
+Executive Board Meetings must happen at least once per year, or 
+as needed in order to facilitate The Association's objectives.
+
+# Section 6 - Newsletters and Publications
+
+## Copyright
+
+Use of copyrighted materials is at the sole discretion of The Board, 
+including, but not limited to, the decision to release materials to 
+the public through Creative Commons licenses.
+
+## Purpose
+
+The purpose of newsletters and publications is to raise awareness for 
+events and to facilitate sponsorship and donations.
+
+# Section 7 - Representation
+
+## General
+
+The Board decides who may or may not represent The Association outside of 
+members of The Executive Board who may always represent The Association.
+
+# Section 8 - Amendment of Articles
+
+## General
+
+Articles may be amended by The Board. If an Executive Board Member dissents,
+he is free to step down from The Board and may absolve his liability of 
+future actions of The Association. Past actions remain subject to liability.
+
+# Section 9 - Distribution of Assets
+
+## General
+
+Assets under the control of The Association may only be used to achieve the 
+goals of The Association. If The Association dissolves, any remaining 
+assets must be donated to a nonprofit or charitable Canadian University with 
+an established record of advancing science, engineering, and technology.
