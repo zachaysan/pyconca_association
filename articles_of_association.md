@@ -38,3 +38,39 @@ Funds are to be sourced from publications, sponsorships, and donations.
 ## Management, Governance, Authority and Leadership
 
 The Association is fully governed by the following individuals:
+
+# Section 2 - The Board and Duties
+
+## Executive Board and Duties
+
+The board is fully made up of the following individuals:
+
+ - TEMP
+ - TEMP
+ - TEMP
+
+## Election of officers
+
+TEMP
+
+## Appointment Powers
+
+Staff of The Association is decided by TEMP
+
+## Delegation
+
+The following tasks may be delegated to non-board members:
+
+ - TEMP
+ - TEMP
+ - TEMP
+
+## Reporting Procedures
+
+In order to keep all members comprised of the actions of 
+The Association, the following reporting procedures must be 
+followed by any agent or board member of The Association:
+
+ - TEMP
+ - TEMP
+ - TEMP
