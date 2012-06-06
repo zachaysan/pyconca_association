@@ -74,3 +74,10 @@ followed by any agent or board member of The Association:
  - TEMP
  - TEMP
  - TEMP
+
+# Section 3 - Appointments
+
+The following are the appointments of The Association:
+
+ - TEMP
+ - TEMP
