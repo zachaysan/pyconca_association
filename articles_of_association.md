@@ -18,3 +18,15 @@ abilities, religions, and sexual orientations.
 
 We aim to connect python users from nonprofit, corporate, government, 
 and academic positions.
+
+## Powers of The Association
+
+The powers of The Association are to direct funds from donors and 
+sponsors to fulfil the objectives of the association.
+
+The Association may approve or set guidelines for usage of trademarks, 
+copyrights, and patents of The Association.
+
+## Memebership
+
+Membership into the Association is governed by TEMP
